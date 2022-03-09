@@ -1,0 +1,48 @@
+#Characters
+c;Baby Peach/Daisy;0;0;0;0;4;0;10;10;10;10;5;5
+c;Baby Rosalina/Lemmy;0;0;0;0;5;0;9;9;9;9;3;5
+c;Baby Mario/Luigi/Dry Bones;1;1;1;1;5;1;8;8;8;8;4;4
+c;Toadette/Wendy/Isabelle;2;2;2;2;5;2;7;7;7;7;2;4
+c;Koopa/Lakitu/Bowser Jr.;2;2;2;2;4;2;8;8;8;8;5;4
+c;Toad/Shy Guy/Larry;3;3;3;3;4;3;7;7;7;7;4;3
+c;Cat Peach/Female Villager/Inkling Girl;4;4;4;4;4;3;6;6;6;6;3;3
+c;Peach/Daisy/Yoshi;5;5;5;5;3;4;5;5;5;5;3;3
+c;Tanooki Mario/Male Villager/Inkling Boy;5;5;5;5;3;5;5;5;5;5;1;3
+c;Mario/Ludwig;6;6;6;6;2;6;4;4;4;4;2;2
+c;Luigi/Iggy;6;6;6;6;2;6;5;5;5;5;1;2
+c;Metal Mario/Metal Peach;8;8;8;8;1;10;3;3;3;3;1;1
+c;Rosalina/Link/King Boo;7;7;7;7;1;7;3;3;3;3;3;2
+c;Waluigi/Donkey Kong/Roy;9;9;9;9;1;8;2;2;2;2;0;1
+c;Wario/Dry Bowser;10;10;10;10;0;9;1;1;1;1;1;0
+c;Bowser/Morton;10;10;10;10;0;10;0;0;0;0;0;0
+#Bodies
+f;Standard/The Duke/300 SL Roadster;3;3;3;3;4;2;3;2;3;3;3;4
+f;Pipe Frame/Varmint/City Tripper;1;3;1;1;6;1;5;4;2;4;4;6
+f;Mach 8/Sports Coupe/Inkstriker;3;3;4;5;3;3;2;2;2;4;4;4
+f;Steel Driver/Tri-Speeder/Bone Rattler;4;5;0;2;1;4;1;5;1;1;3;2
+f;Cat Cruiser/The Comet/Yoshi Bike/Teddy Buggy;2;2;4;3;5;2;4;2;4;3;3;5
+f;Circuit Special/B Dasher/The P-Wing;5;1;2;4;1;3;1;1;0;2;1;1
+f;Badwagon/Standard ATV/GLA;5;2;1;3;0;4;0;1;0;1;5;0
+f;Prancer/Sport Bike/Jet Bike;4;3;3;3;2;1;3;3;3;2;2;3
+f;Biddybuggy/Mr. Scooty;0;1;1;2;7;0;5;4;4;5;4;7
+f;Landship/Streetle;1;5;2;0;6;0;4;5;3;2;6;6
+f;Sneeker/Gold Standard/Master Cycle;4;2;3;3;2;2;3;2;2;3;0;3
+f;Standard Bike/Flame Rider/Wild Wiggler/W 25 Silver Arrow;2;2;3;4;5;1;4;3;3;4;5;5
+f;Blue Falcon/Splat Buggy;4;2;3;4;3;0;2;3;1;5;3;3
+f;Tanooki Kart/Koopa Clown/Master Cycle Zero;2;4;3;3;2;3;4;4;3;3;7;3
+#Tires
+t;Standard Tires/Blue Standard/GLA Tires;2;3;3;2;4;2;3;3;3;3;5;3
+t;Monster Tires/Hot Monster/Ancient Tires;2;2;1;2;2;4;0;1;1;0;7;2
+t;Roller/Azure Roller;0;3;3;0;6;0;4;4;4;4;4;6
+t;Slim/Wood/Crimson Slim;3;2;2;4;2;2;4;4;4;3;1;2
+t;Slick/Cyber Slick;4;0;0;4;1;3;2;0;1;2;0;0
+t;Metal/Gold;4;3;2;1;0;4;2;2;0;1;2;0
+t;Button/Leaf;1;2;2;2;5;0;3;3;2;4;3;5
+t;Off-Road/Retro Off-Road/Triforce;3;4;1;2;3;3;1;1;2;2;6;1
+t;Sponge/Cushion;1;1;4;1;4;1;2;1;3;2;6;4
+#Gliders
+g;Super Glider/Waddle Wing/Hylian Kite;1;1;2;0;1;1;1;0;1;1;1;1
+g;Cloud Glider/Parachute/Flower Glider/Paper Glider;0;1;1;1;2;0;1;0;2;1;1;2
+g;Wario Wing/Plane Glider/Gold Glider/Paraglider;1;0;2;1;1;2;1;1;1;0;0;1
+g;Peach Parasol/Parafoil/Bowser Kite/MKTV Parafoil;0;0;1;1;2;1;1;1;2;0;0;2
+#https://www.mariowiki.com/Mario_Kart_8_Deluxe
